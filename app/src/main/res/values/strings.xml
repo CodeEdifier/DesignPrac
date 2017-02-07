@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DesignPrac</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="arr" >
+        <item>a</item>
+        <item>b</item>
+    </string-array>
+</resources>
